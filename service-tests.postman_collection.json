@@ -1,0 +1,184 @@
+{
+	"info": {
+		"_postman_id": "a9dc3054-e5cc-4dff-9911-7b064c67ad1b",
+		"name": "NYT Top service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "MontyPost",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/books?title=BOOK DATA 4&author=AUTHOR 4&pubDate=4 Week &rank=4&category=FICTION",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"books"
+					],
+					"query": [
+						{
+							"key": "title",
+							"value": "BOOK DATA 4"
+						},
+						{
+							"key": "author",
+							"value": "AUTHOR 4"
+						},
+						{
+							"key": "pubDate",
+							"value": "4 Week "
+						},
+						{
+							"key": "rank",
+							"value": "4"
+						},
+						{
+							"key": "category",
+							"value": "FICTION"
+						}
+					]
+				},
+				"description": "Saves a Monty post"
+			},
+			"response": []
+		},
+		{
+			"name": "BooksGet",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/books?",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"books"
+					],
+					"query": [
+						{
+							"key": "title",
+							"value": "Monty Python's 2020 guide to life",
+							"disabled": true
+						},
+						{
+							"key": "author",
+							"value": "Dr No Nonsense",
+							"disabled": true
+						},
+						{
+							"key": "pubDate",
+							"value": "2019/01/01",
+							"disabled": true
+						},
+						{
+							"key": "rank",
+							"value": "2",
+							"disabled": true
+						},
+						{
+							"key": "category",
+							"value": "non-fiction",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "BooksSearch",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/books?q=book",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"books"
+					],
+					"query": [
+						{
+							"key": "title",
+							"value": "Monty Python's 2020 guide to life",
+							"disabled": true
+						},
+						{
+							"key": "author",
+							"value": "Dr No Nonsense",
+							"disabled": true
+						},
+						{
+							"key": "pubDate",
+							"value": "2019/01/01",
+							"disabled": true
+						},
+						{
+							"key": "rank",
+							"value": "2",
+							"disabled": true
+						},
+						{
+							"key": "category",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "q",
+							"value": "book"
+						}
+					]
+				},
+				"description": "Search query q="
+			},
+			"response": []
+		},
+		{
+			"name": "Default",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				},
+				"description": "Describes service"
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "b0f5031a-c522-4471-ac6d-25383d71b4df",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "2e0c473e-a9f4-457d-a5f9-a0beb9fcea5a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
