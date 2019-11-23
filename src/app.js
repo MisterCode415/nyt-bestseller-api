@@ -7,6 +7,7 @@ import morgan      from 'morgan' // causes a deprecated warning, can use require
 import mongoose    from 'mongoose'
 import books       from './routes/books'
 import authors     from './routes/authors'
+import description from './routes/description'
 import pathErrors  from './routes/errors'
 import appErrors   from './errors'
 
@@ -34,6 +35,7 @@ app.use(express.urlencoded({extended:true}))
 // routing paths w/ forwarding
 app.use('/books',   books)
 app.use('/authors', authors)
+app.use('/',        description)
 
 // catch all other requests, not sure if this is the best way...
 app.all('/*', pathErrors) // is a wildcard the best method to catch all unhanlded paths? Not sure
