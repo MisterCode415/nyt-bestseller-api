@@ -9,6 +9,10 @@ const router = express.Router()
 router.get('/', (req, res) => {
   let query = {} // find all
 
+  if(req.query.q) {
+    query = { title: { $regex : req.query.q, $options: 'i' } }   // search title with pattern matching
+  }
+
   Book.find(query)
     .then(docs => {
       if(!docs) {
