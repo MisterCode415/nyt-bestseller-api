@@ -1,0 +1,40 @@
+{
+  "name": "bestsellers",
+  "version": "1.0.0",
+  "description": "RESTFull API providing New York Times \"Best Seller\" information",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -r esm src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianvegan/bestsellerapi.git"
+  },
+  "keywords": [
+    "API",
+    "RESTFul",
+    "NodeJS",
+    "Express",
+    "New York Times",
+    "Bestseller List"
+  ],
+  "author": "Brian Kenny <papaviking@gmail.com> (lionleaf.tech)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianvegan/bestsellerapi/issues"
+  },
+  "homepage": "https://github.com/brianvegan/bestsellerapi#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.12",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.0"
+  }
+}
