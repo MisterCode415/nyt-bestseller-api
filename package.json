@@ -2,7 +2,7 @@
   "name": "bestsellers",
   "version": "1.0.0",
   "description": "RESTFull API providing New York Times \"Best Seller\" information",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "nodemon -r esm src/app",
     "test": "echo \"Error: no test specified\" && exit 1"
