@@ -14,6 +14,7 @@ router.get('/', (req, res) => {
   }
 
   Book.find(query)
+    .select('title author pubDate rank category')
     .then(docs => {
       if(!docs) {
         res.status(204).json({
