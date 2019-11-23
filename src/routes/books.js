@@ -1,21 +1,55 @@
 'use strict'
 
 import express from 'express'
+import mongoose from 'mongoose'
+import Book from '../models/books'
 
 const router = express.Router()
 
 router.get('/', (req, res) => {
-  // stub
-  res.status(200).json({
-    result: 'fetch books'
-  }) 
+  let query = {} // find all
+
+  Book.find(query)
+    .then(docs => {
+      if(!docs) {
+        res.status(204).json({
+          result: "No search results"
+        })
+      } else {
+        res.status(200).json({
+          result: docs
+        }) 
+      }
+    })
+    .catch(err => {
+      res.status(500).json({
+        error: err
+      })
+    }) 
 })
 
 router.post('/', (req, res) => {
-  // stub
-  res.status(201).json({
-    result: 'book resource added'
-  })  
+  const book = new Book({
+    _id:      mongoose.Types.ObjectId(),
+    title:    req.query.title,
+    author:   req.query.author,
+    pubDate:  req.query.pubDate,
+    rank:     req.query.rank,
+    category: req.query.category
+  });
+
+  book.save()
+      .then(result => {
+        res.status(201).json({
+          message: 'Resource added',
+          newResource: book
+        })      
+      })
+      .catch(err => {
+        res.status(500).json({
+          error: err
+        }) 
+      })  
 })
 
 export default router
