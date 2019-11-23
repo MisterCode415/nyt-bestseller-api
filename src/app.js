@@ -8,6 +8,13 @@ import mongoose    from 'mongoose'
 import books       from './routes/books'
 import authors     from './routes/authors'
 
+// kill server if database is offline
+mongoose.connect(process.env.CONNECTION_STRING, function(err) {
+  if(err) {
+    throw err
+    process.exit(0)
+  }
+})
 
 // entrypoint
 const app = express()
