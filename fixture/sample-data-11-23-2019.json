@@ -1,0 +1,604 @@
+/* 1 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d007"),
+    "title" : "TWISTED TWENTY-SIX",
+    "author" : "by Janet Evanovich",
+    "pubDate" : "New this week",
+    "description" : "The 26th book in the Stephanie Plum series. A New Jersey gangster’s associates go after a bounty hunter’s widowed grandmother.",
+    "rank" : 1,
+    "category" : "combined-print-and-e-book-fiction"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d008"),
+    "title" : "BLUE MOON",
+    "author" : "by Lee Child",
+    "pubDate" : "3 weeks on the list",
+    "description" : "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+    "rank" : 2,
+    "category" : "combined-print-and-e-book-fiction"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d009"),
+    "title" : "THE GUARDIANS",
+    "author" : "by John Grisham",
+    "pubDate" : "5 weeks on the list",
+    "description" : "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+    "rank" : 3,
+    "category" : "combined-print-and-e-book-fiction"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00a"),
+    "title" : "WHERE THE CRAWDADS SING",
+    "author" : "by Delia Owens",
+    "pubDate" : "62 weeks on the list",
+    "description" : "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+    "rank" : 4,
+    "category" : "combined-print-and-e-book-fiction"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00b"),
+    "title" : "THE NIGHT FIRE",
+    "author" : "by Michael Connelly",
+    "pubDate" : "4 weeks on the list",
+    "description" : "Harry Bosch and Renée Ballard return to take up a case that held the attention of Bosch’s mentor.",
+    "rank" : 5,
+    "category" : "combined-print-and-e-book-fiction"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00c"),
+    "title" : "TRIGGERED",
+    "author" : "by Donald Trump Jr.",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Forays into politics and views on liberals from the executive vice president of the Trump Organization.",
+    "rank" : 1,
+    "category" : "combined-print-and-e-book-nonfiction"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00d"),
+    "title" : "TALKING TO STRANGERS",
+    "author" : "by Malcolm Gladwell",
+    "pubDate" : "10 weeks on the list",
+    "description" : "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+    "rank" : 2,
+    "category" : "combined-print-and-e-book-nonfiction"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00e"),
+    "title" : "SAM HOUSTON AND THE ALAMO AVENGERS",
+    "author" : "by Brian Kilmeade",
+    "pubDate" : "2 weeks on the list",
+    "description" : "The \"Fox & Friends” host gives an account of the battle against the Mexican Army in 1836.",
+    "rank" : 3,
+    "category" : "combined-print-and-e-book-nonfiction"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d00f"),
+    "title" : "WITH ALL DUE RESPECT",
+    "author" : "by Nikki R. Haley",
+    "pubDate" : "New this week",
+    "description" : "A memoir by the former United States ambassador to the United Nations and governor of South Carolina.",
+    "rank" : 4,
+    "category" : "combined-print-and-e-book-nonfiction"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d010"),
+    "title" : "FINDING CHIKA",
+    "author" : "by Mitch Albom",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Lessons learned by the Alboms when they bring a Haitian orphan with a life-threatening illness into their family.",
+    "rank" : 5,
+    "category" : "combined-print-and-e-book-nonfiction"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d011"),
+    "title" : "TWISTED TWENTY-SIX",
+    "author" : "by Janet Evanovich",
+    "pubDate" : "New this week",
+    "description" : "The 26th book in the Stephanie Plum series. A New Jersey gangster’s associates go after a bounty hunter’s widowed grandmother.",
+    "rank" : 1,
+    "category" : "hardcover-fiction"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d012"),
+    "title" : "THE GUARDIANS",
+    "author" : "by John Grisham",
+    "pubDate" : "5 weeks on the list",
+    "description" : "Cullen Post, a lawyer and Episcopal minister, antagonizes some ruthless killers when he takes on a wrongful conviction case.",
+    "rank" : 2,
+    "category" : "hardcover-fiction"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d013"),
+    "title" : "BLUE MOON",
+    "author" : "by Lee Child",
+    "pubDate" : "3 weeks on the list",
+    "description" : "Jack Reacher gets caught up in a turf war between Ukrainian and Albanian gangs.",
+    "rank" : 3,
+    "category" : "hardcover-fiction"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d014"),
+    "title" : "WHERE THE CRAWDADS SING",
+    "author" : "by Delia Owens",
+    "pubDate" : "63 weeks on the list",
+    "description" : "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+    "rank" : 4,
+    "category" : "hardcover-fiction"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d015"),
+    "title" : "THE NIGHT FIRE",
+    "author" : "by Michael Connelly",
+    "pubDate" : "4 weeks on the list",
+    "description" : "Harry Bosch and Renée Ballard return to take up a case that held the attention of Bosch’s mentor.",
+    "rank" : 5,
+    "category" : "hardcover-fiction"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d016"),
+    "title" : "TRIGGERED",
+    "author" : "by Donald Trump Jr.",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Forays into politics and views on liberals from the executive vice president of the Trump Organization.",
+    "rank" : 1,
+    "category" : "hardcover-nonfiction"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d017"),
+    "title" : "SAM HOUSTON AND THE ALAMO AVENGERS",
+    "author" : "by Brian Kilmeade",
+    "pubDate" : "2 weeks on the list",
+    "description" : "The \"Fox & Friends” host gives an account of the battle against the Mexican Army in 1836.",
+    "rank" : 2,
+    "category" : "hardcover-nonfiction"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d018"),
+    "title" : "WITH ALL DUE RESPECT",
+    "author" : "by Nikki R. Haley",
+    "pubDate" : "New this week",
+    "description" : "A memoir by the former United States ambassador to the United Nations and governor of South Carolina.",
+    "rank" : 3,
+    "category" : "hardcover-nonfiction"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d019"),
+    "title" : "FINDING CHIKA",
+    "author" : "by Mitch Albom",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Lessons learned by the Alboms when they bring a Haitian orphan with a life-threatening illness into their family.",
+    "rank" : 4,
+    "category" : "hardcover-nonfiction"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01a"),
+    "title" : "ME",
+    "author" : "by Elton John",
+    "pubDate" : "5 weeks on the list",
+    "description" : "The multi-award-winning solo artist's first autobiography chronicles his career, relationships and private struggles.",
+    "rank" : 5,
+    "category" : "hardcover-nonfiction"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01b"),
+    "title" : "THE TATTOOIST OF AUSCHWITZ",
+    "author" : "by Heather Morris",
+    "pubDate" : "63 weeks on the list",
+    "description" : "A concentration camp detainee tasked with permanently marking fellow prisoners falls in love with one of them.",
+    "rank" : 1,
+    "category" : "trade-fiction-paperback"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01c"),
+    "title" : "THE OVERSTORY",
+    "author" : "by Richard Powers",
+    "pubDate" : "32 weeks on the list",
+    "description" : "Winner of the 2019 Pulitzer Prize for fiction. Nine people drawn to trees for different reasons fight for the last of the remaining acres of virgin forest.",
+    "rank" : 2,
+    "category" : "trade-fiction-paperback"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01d"),
+    "title" : "THE GREAT ALONE",
+    "author" : "by Kristin Hannah",
+    "pubDate" : "8 weeks on the list",
+    "description" : "A former prisoner of war returns from Vietnam and moves his family to Alaska, where they face tough conditions.",
+    "rank" : 3,
+    "category" : "trade-fiction-paperback"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01e"),
+    "title" : "EVERY BREATH",
+    "author" : "by Nicholas Sparks",
+    "pubDate" : "5 weeks on the list",
+    "description" : "Difficult choices surface when Hope Anderson and Tru Walls meet in a North Carolina seaside town.",
+    "rank" : 4,
+    "category" : "trade-fiction-paperback"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d01f"),
+    "title" : "THE CHEF",
+    "author" : "by James Patterson and Max DiLallo",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Caleb Rooney, a police detective and celebrity food truck chef, must clear his name of murder allegations.",
+    "rank" : 5,
+    "category" : "trade-fiction-paperback"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d020"),
+    "title" : "I HEARD YOU PAINT HOUSES",
+    "author" : "by Charles Brandt",
+    "pubDate" : "3 weeks on the list",
+    "description" : "A World War II veteran works for a crime boss and comes into contact with the union boss Jimmy Hoffa. The basis of the movie \"The Irishman.\"",
+    "rank" : 1,
+    "category" : "paperback-nonfiction"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d021"),
+    "title" : "NO ONE IS TOO SMALL TO MAKE A DIFFERENCE",
+    "author" : "by Greta Thunberg",
+    "pubDate" : "New this week",
+    "description" : "Speeches by the Swedish climate activist, including her address to the United Nations.",
+    "rank" : 2,
+    "category" : "paperback-nonfiction"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d022"),
+    "title" : "SAPIENS",
+    "author" : "by Yuval Noah Harari",
+    "pubDate" : "79 weeks on the list",
+    "description" : "How Homo sapiens became Earth’s dominant species.",
+    "rank" : 3,
+    "category" : "paperback-nonfiction"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d023"),
+    "title" : "THE BODY KEEPS THE SCORE",
+    "author" : "by Bessel van der Kolk",
+    "pubDate" : "56 weeks on the list",
+    "description" : "How trauma affects the body and mind, and innovative treatments for recovery.",
+    "rank" : 4,
+    "category" : "paperback-nonfiction"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d024"),
+    "title" : "WHITE FRAGILITY",
+    "author" : "by Robin DiAngelo",
+    "pubDate" : "71 weeks on the list",
+    "description" : "Historical and cultural analyses on what causes defensive moves by white people and how this inhibits cross-racial dialogue.",
+    "rank" : 5,
+    "category" : "paperback-nonfiction"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d025"),
+    "title" : "THE PIONEER WOMAN COOKS: THE NEW FRONTIER",
+    "author" : "by Ree Drummond",
+    "pubDate" : "4 weeks on the list",
+    "description" : "",
+    "rank" : 1,
+    "category" : "advice-how-to-and-miscellaneous"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d026"),
+    "title" : "THE SUBTLE ART OF NOT GIVING A F*CK",
+    "author" : "by Mark Manson",
+    "pubDate" : "153 weeks on the list",
+    "description" : "",
+    "rank" : 2,
+    "category" : "advice-how-to-and-miscellaneous"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d027"),
+    "title" : "I REALLY NEEDED THIS TODAY",
+    "author" : "by Hoda Kotb with Jane Lorenzini",
+    "pubDate" : "5 weeks on the list",
+    "description" : "",
+    "rank" : 3,
+    "category" : "advice-how-to-and-miscellaneous"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d028"),
+    "title" : "THE FIVE LOVE LANGUAGES",
+    "author" : "by Gary Chapman",
+    "pubDate" : "296 weeks on the list",
+    "description" : "",
+    "rank" : 4,
+    "category" : "advice-how-to-and-miscellaneous"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d029"),
+    "title" : "THE BOY, THE MOLE, THE FOX AND THE HORSE",
+    "author" : "by Charlie Mackesy",
+    "pubDate" : "2 weeks on the list",
+    "description" : "",
+    "rank" : 5,
+    "category" : "advice-how-to-and-miscellaneous"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02a"),
+    "title" : "DIARY OF AN AWESOME FRIENDLY KID",
+    "author" : "by Jeff Kinney",
+    "pubDate" : "32 weeks on the list",
+    "description" : "Greg’s best friend Rowley Jefferson writes his own diary.",
+    "rank" : 1,
+    "category" : "childrens-middle-grade-hardcover"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02b"),
+    "title" : "THE COMPLETE COOKBOOK FOR YOUNG CHEFS",
+    "author" : "by America's Test Kitchen Kids",
+    "pubDate" : "31 weeks on the list",
+    "description" : "Over 100 kid-tested recipes from America's Test Kitchen.",
+    "rank" : 2,
+    "category" : "childrens-middle-grade-hardcover"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02c"),
+    "title" : "WONDER",
+    "author" : "by R.J. Palacio",
+    "pubDate" : "223 weeks on the list",
+    "description" : "A boy with a facial deformity starts school.",
+    "rank" : 3,
+    "category" : "childrens-middle-grade-hardcover"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02d"),
+    "title" : "THE COMPLETE BAKING BOOK FOR YOUNG CHEFS",
+    "author" : "by America's Test Kitchen Kids",
+    "pubDate" : "2 weeks on the list",
+    "description" : "One hundred plus kid-tested baking recipes.",
+    "rank" : 4,
+    "category" : "childrens-middle-grade-hardcover"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02e"),
+    "title" : "REFUGEE",
+    "author" : "by Alan Gratz",
+    "pubDate" : "79 weeks on the list",
+    "description" : "Three children in three different conflicts look for safe haven.",
+    "rank" : 5,
+    "category" : "childrens-middle-grade-hardcover"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d02f"),
+    "title" : "SISTERS FIRST",
+    "author" : "by Jenna Bush Hager and Barbara Pierce Bush. Illustrated by Ramona Kaulitzki",
+    "pubDate" : "New this week",
+    "description" : "An ode to the magic of sisterhood.",
+    "rank" : 1,
+    "category" : "picture-books"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d030"),
+    "title" : "THE CRAYONS' CHRISTMAS",
+    "author" : "by Drew Daywalt. Illustrated by Oliver Jeffers",
+    "pubDate" : "5 weeks on the list",
+    "description" : "Duncan’s crayons prepare for Christmas.",
+    "rank" : 2,
+    "category" : "picture-books"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d031"),
+    "title" : "CONSTRUCTION SITE ON CHRISTMAS NIGHT",
+    "author" : "by Sherri Duskey Rinker. Illustrated by A. G. Ford",
+    "pubDate" : "12 weeks on the list",
+    "description" : "Construction vehicles build a firehouse in time for Christmas.",
+    "rank" : 3,
+    "category" : "picture-books"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d032"),
+    "title" : "SOFIA VALDEZ, FUTURE PREZ",
+    "author" : "by Andrea Beaty. Illustrated by David Roberts",
+    "pubDate" : "2 weeks on the list",
+    "description" : "A second grader wants to turn a landfill into a park.",
+    "rank" : 4,
+    "category" : "picture-books"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d033"),
+    "title" : "GOOD NIGHT, LITTLE BLUE TRUCK",
+    "author" : "by Alice Schertle and Jill McElmurry",
+    "pubDate" : "5 weeks on the list",
+    "description" : "Blue and Toad offer shelter from a storm to other farm animals.",
+    "rank" : 5,
+    "category" : "picture-books"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d034"),
+    "title" : "DIARY OF A WIMPY KID",
+    "author" : "written and illustrated by Jeff Kinney",
+    "pubDate" : "557 weeks on the list",
+    "description" : "The travails and challenges of adolescence.",
+    "rank" : 1,
+    "category" : "series-books"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d035"),
+    "title" : "DOG MAN",
+    "author" : "by Dav Pilkey",
+    "pubDate" : "116 weeks on the list",
+    "description" : "A dog’s head is combined with a policeman’s body to create this hybrid supercop hound.",
+    "rank" : 2,
+    "category" : "series-books"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d036"),
+    "title" : "HARRY POTTER",
+    "author" : "by J.K. Rowling",
+    "pubDate" : "556 weeks on the list",
+    "description" : "A wizard hones his conjuring skills in the service of fighting evil.",
+    "rank" : 3,
+    "category" : "series-books"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d037"),
+    "title" : "DORK DIARIES",
+    "author" : "by Rachel Renée Russell",
+    "pubDate" : "300 weeks on the list",
+    "description" : "Nikki Maxwell navigates the halls of middle school.",
+    "rank" : 4,
+    "category" : "series-books"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d038"),
+    "title" : "WINGS OF FIRE",
+    "author" : "by Tui T. Sutherland",
+    "pubDate" : "65 weeks on the list",
+    "description" : "Only the five dragonets of destiny can unite the seven warring dragon tribes.",
+    "rank" : 5,
+    "category" : "series-books"
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d039"),
+    "title" : "THE HATE U GIVE",
+    "author" : "by Angie Thomas",
+    "pubDate" : "142 weeks on the list",
+    "description" : "A 16-year-old girl sees a police officer kill her friend.",
+    "rank" : 1,
+    "category" : "young-adult-hardcover"
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d03a"),
+    "title" : "CALL DOWN THE HAWK",
+    "author" : "by Maggie Stiefvater",
+    "pubDate" : "2 weeks on the list",
+    "description" : "Ronan Lynch has the ability to pull objects from his dreams in this spin-off series of “The Raven Cycle.”",
+    "rank" : 2,
+    "category" : "young-adult-hardcover"
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d03b"),
+    "title" : "FIVE FEET APART",
+    "author" : "by Rachael Lippincott with Mikki Daughtry and Tobias Iaconis",
+    "pubDate" : "50 weeks on the list",
+    "description" : "Stella and Will are in love, but they can't get within five feet of each other.",
+    "rank" : 3,
+    "category" : "young-adult-hardcover"
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d03c"),
+    "title" : "THE FOUNTAINS OF SILENCE",
+    "author" : "by Ruta Sepetys",
+    "pubDate" : "7 weeks on the list",
+    "description" : "During the fascist rule of Spain, Ana and Daniel's romance blooms amid the turmoil.",
+    "rank" : 4,
+    "category" : "young-adult-hardcover"
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("5ddb5e852d529e775470d03d"),
+    "title" : "THE SECRET COMMONWEALTH",
+    "author" : "by Philip Pullman",
+    "pubDate" : "7 weeks on the list",
+    "description" : "Lyra Silvertongue's adventures begin again as she searches for a refuge for separated daemons.",
+    "rank" : 5,
+    "category" : "young-adult-hardcover"
+}
