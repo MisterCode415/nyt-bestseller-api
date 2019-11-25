@@ -1,8 +1,8 @@
 'use strict'
 
-import express from 'express'
+import express  from 'express'
 import mongoose from 'mongoose'
-import Book from '../models/books'
+import Book     from '../models/books'
 
 const router = express.Router()
 
@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
     .then(docs => {
       if(!docs) {
         res.status(204).json({
-          result: "No search results"
+          result: 'No search results'
         })
       } else {
         res.status(200).json({
@@ -35,12 +35,13 @@ router.get('/', (req, res) => {
 
 router.post('/', (req, res) => {
   const book = new Book({
-    _id:      mongoose.Types.ObjectId(),
-    title:    req.query.title,
-    author:   req.query.author,
-    pubDate:  req.query.pubDate,
-    rank:     req.query.rank,
-    category: req.query.category
+    _id:         mongoose.Types.ObjectId(),
+    title:       req.query.title,
+    author:      req.query.author,
+    description: req.query.description,
+    pubDate:     req.query.pubDate,
+    rank:        req.query.rank,
+    category:    req.query.category
   });
 
   book.save()
